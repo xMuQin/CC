@@ -1,0 +1,3 @@
+﻿  practice_20260621.c
+D:\CXM\测试\practice_20260621.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  测试.vcxproj -> D:\CXM\测试\x64\Debug\测试.exe
