@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8e180a21-5b5d-466a-b354-a29453f7a599}</ProjectGuid>
-    <RootNamespace>typedef</RootNamespace>
+    <ProjectGuid>{51ee8d95-5ea4-4331-85df-25f0a1a1d464}</ProjectGuid>
+    <RootNamespace>My1zhizhengAND2shuzu</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="typedef.c" />
+    <ClCompile Include="1zhizhengBianli.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
