@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CXM\\\u6D4B\u8BD5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6314E82-CBF4-4A27-A689-D681DE699243}|\u6D4B\u8BD5\\\u6D4B\u8BD5.vcxproj|D:\\CXM\\\u6D4B\u8BD5\\practice_20260621.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6314E82-CBF4-4A27-A689-D681DE699243}|\u6D4B\u8BD5\\\u6D4B\u8BD5.vcxproj|solutionrelative:practice_20260621.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice_20260621.c",
+              "DocumentMoniker": "D:\\CXM\\\u6D4B\u8BD5\\practice_20260621.c",
+              "RelativeDocumentMoniker": "practice_20260621.c",
+              "ToolTip": "D:\\CXM\\\u6D4B\u8BD5\\practice_20260621.c",
+              "RelativeToolTip": "practice_20260621.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-21T13:14:21.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

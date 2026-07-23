@@ -1,0 +1,6 @@
+﻿  源.c
+D:\CXM\指针数组的基本用法\xMuQin\xMuQin\源.c(16,9): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\CXM\指针数组的基本用法\xMuQin\xMuQin\源.c(16,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  xMuQin.vcxproj -> D:\CXM\指针数组的基本用法\xMuQin\x64\Debug\xMuQin.exe

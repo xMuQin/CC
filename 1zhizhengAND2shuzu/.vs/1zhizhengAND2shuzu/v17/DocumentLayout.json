@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CXM\\1zhizhengAND2shuzu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51EE8D95-5EA4-4331-85DF-25F0A1A1D464}|1zhizhengAND2shuzu\\1zhizhengAND2shuzu.vcxproj|D:\\CXM\\1zhizhengAND2shuzu\\1zhizhengAND2shuzu\\1zhizhengBianli.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51EE8D95-5EA4-4331-85DF-25F0A1A1D464}|1zhizhengAND2shuzu\\1zhizhengAND2shuzu.vcxproj|solutionrelative:1zhizhengAND2shuzu\\1zhizhengBianli.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1zhizhengBianli.c",
+              "DocumentMoniker": "D:\\CXM\\1zhizhengAND2shuzu\\1zhizhengAND2shuzu\\1zhizhengBianli.c",
+              "RelativeDocumentMoniker": "1zhizhengAND2shuzu\\1zhizhengBianli.c",
+              "ToolTip": "D:\\CXM\\1zhizhengAND2shuzu\\1zhizhengAND2shuzu\\1zhizhengBianli.c",
+              "RelativeToolTip": "1zhizhengAND2shuzu\\1zhizhengBianli.c",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-16T14:27:30.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
